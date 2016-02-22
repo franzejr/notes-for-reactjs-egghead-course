@@ -6,3 +6,4 @@
 - [Simple Router](/simple_router)
 - [State and Props](/state_and_props)
 - [Data Persistence](/data_persistence)
+- [PropTypes](/proptypes)
