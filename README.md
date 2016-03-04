@@ -10,3 +10,4 @@
 - [Managing State in Children](/managing_state_in_children)
 - [Transition](/transition)
 - [HTTP Requests - Axios](/http_requests)
+- [Stateless Functional Components](/stateless_functional_components)
